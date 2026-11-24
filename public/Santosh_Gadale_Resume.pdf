@@ -1,0 +1,56 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2188 >>
+stream
+BT /F2 18 Tf 50 750 Td (SANTOSH GADALE) Tj ET
+BT /F1 10 Tf 50 732 Td (AI/ML Engineer | Software Developer | Data Analytics Enthusiast) Tj ET
+BT /F1 9 Tf 50 718 Td (Bengaluru, India  |  santoshgadale005@gmail.com  |  github.com/Santoshgadale005  |  linkedin.com/in/santoshgadale) Tj ET
+BT /F2 11 Tf 50 686 Td (EDUCATION) Tj ET
+BT /F1 10 Tf 50 670 Td (B.Tech \(Hons.\) in Computer Science \(AI & Machine Learning\) - RV University, Bengaluru \(2023 - 2027\)) Tj ET
+BT /F2 11 Tf 50 644 Td (EXPERIENCE & RESEARCH) Tj ET
+BT /F1 10 Tf 50 628 Td (- IEEE Region 10 Symposium \(TENSYMP 2026\), Penang, Malaysia - Selected Transformer Model Compression Research) Tj ET
+BT /F1 10 Tf 50 614 Td (- Zaalima - Data Analytics Internship \(Churn Prediction, CLV, Fraud Detection, Retail Demand Forecasting\)) Tj ET
+BT /F2 11 Tf 50 588 Td (FEATURED PROJECTS) Tj ET
+BT /F1 10 Tf 50 572 Td (- SmashIQ: AI-Powered Badminton Video Analytics Platform \(React, FastAPI, OpenCV, YOLOv8, ByteTrack, MediaPipe\)) Tj ET
+BT /F1 10 Tf 50 558 Td (- Transformer Model Compression Research: Sequential Pruning, Quantization & Knowledge Distillation on BERT) Tj ET
+BT /F1 10 Tf 50 544 Td (- FitMotion AI: Personalized Fitness Recommendation Platform \(Python, Streamlit, Scikit-learn, SQLite, Plotly\)) Tj ET
+BT /F1 10 Tf 50 530 Td (- FitBite: AI-Powered Nutrition and Fitness Application) Tj ET
+BT /F2 11 Tf 50 504 Td (TECHNICAL SKILLS) Tj ET
+BT /F1 10 Tf 50 488 Td (Programming: Python, Java, C, JavaScript, SQL) Tj ET
+BT /F1 10 Tf 50 474 Td (AI/ML: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Generative AI) Tj ET
+BT /F1 10 Tf 50 460 Td (Frameworks: React, Flask, FastAPI, PyTorch, OpenCV, Scikit-learn, Pandas, NumPy) Tj ET
+BT /F1 10 Tf 50 446 Td (Databases & Tools: MySQL, PostgreSQL, SQLite, Git, GitHub, Docker, Google Colab, Jupyter, Streamlit) Tj ET
+BT /F2 11 Tf 50 420 Td (ACHIEVEMENTS & LEADERSHIP) Tj ET
+BT /F1 10 Tf 50 404 Td (- State-Ranked Badminton Player \(Karnataka\); 3rd Place Mixed Doubles - Yonex Sunrise State Ranking \(2019\)) Tj ET
+BT /F1 10 Tf 50 390 Td (- Badminton Tournament Organization & Sports Event Coordination; Off-Roading Event Hosting & Marshalling) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2636
+%%EOF
